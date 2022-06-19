@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: #68e5c3;
+}
+
+* {
+    box-sizing: border-box;
+}
+#accordionExample{
+    max-width: 1000px !important;
+    margin: 30px auto;
+}
+.navbar{
+    background-color: #49c7a5 !important;
+}
+.nav-item{
+    margin-right: 50px !important;
+}
